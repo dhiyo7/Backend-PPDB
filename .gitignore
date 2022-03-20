@@ -1,0 +1,6 @@
+build
+storage/logs/*
+node_modules
+npm-debug.log
+.env
+*.code-workspace
